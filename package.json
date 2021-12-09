@@ -1,0 +1,19 @@
+{
+  "name": "webrtcdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruchikpravasi7/WebRTCDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruchikpravasi7/WebRTCDemo/issues"
+  },
+  "homepage": "https://github.com/ruchikpravasi7/WebRTCDemo#readme"
+}
