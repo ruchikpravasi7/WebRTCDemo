@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/ruchikpravasi7/WebRTCDemo/issues"
   },
-  "homepage": "https://github.com/ruchikpravasi7/WebRTCDemo#readme"
+  "homepage": "https://github.com/ruchikpravasi7/WebRTCDemo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0",
+    "uuid": "^8.3.2"
+  }
 }
